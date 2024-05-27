@@ -1,1 +1,2 @@
 # VBA-Project
+This was a project I did in my first year. This was an extensive project as it span over two months. We had to  create userforms for business of our choice and this was a group project. We took our business as medical shop and we visited a lot of medical shops daily and then finally with help of co-operation of one medical we took all essential information from that medical owner and then created the userforms that could help the business handle data efficiently. By the end of it we were also required to present our project to the said faculty.
